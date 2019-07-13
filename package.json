@@ -1,0 +1,19 @@
+{
+  "name": "0_gatsby_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"gatsby develop",
+    "build":"gatsby build",
+    "serve":"gatsby serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.13.19",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
